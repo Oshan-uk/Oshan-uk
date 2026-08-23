@@ -1,9 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0057FF,100:00FFF0&height=150&section=header&text=ℍ𝔼𝕃𝕃𝕆%20𝕀'𝕄%20𝕆𝕊ℍ𝔸ℕ%20𝕌𝔻𝔼𝔼𝕊ℍ𝔸&fontSize=40&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0057FF,100:00FFF0&height=100&section=header&text=ℍ𝔼𝕃𝕃𝕆%20𝕀'𝕄%20𝕆𝕊ℍ𝔸ℕ%20𝕌𝔻𝔼𝔼𝕊ℍ𝔸&fontSize=35&fontColor=ffffff)
 
 <h3>... 𝓢𝓣𝓐𝓨 𝓐𝓒𝓣𝓘𝓥𝓔 𝓦𝓘𝓣𝓗 𝓜𝓔 ...</h3>
-
 <h5>Aspiring Software Engineer | Computer Science Student @ IJSE, Sri Lanka 🇱🇰</h5>
 
 <a href="https://www.linkedin.com/in/oshan-udeesha-a380b03a8/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
@@ -12,5 +11,6 @@
 <a href="https://wa.me/94759668377"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
 <a href="https://www.youtube.com/@codecraftwithoshan"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white"></a>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0057FF,100:00FFF0&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0057FF,100:00FFF0&height=70&section=footer)
+
 </div>
