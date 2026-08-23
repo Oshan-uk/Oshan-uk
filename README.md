@@ -1,5 +1,7 @@
 <div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0057FF,100:00FFF0&height=150&section=header&text=Hello%20I'm%20Oshan%20Udeesha&fontSize=40&fontColor=ffffff)
+
 <h1 color = blue>ℍ𝔼𝕃𝕃𝕆 𝕀'𝕄 𝕆𝕊ℍ𝔸ℕ 𝕌𝔻𝔼𝔼𝕊ℍ𝔸</h1>
 
 <h3>... 𝓢𝓣𝓐𝓨 𝓐𝓒𝓣𝓘𝓥𝓔 𝓦𝓘𝓣𝓗 𝓜𝓔 ...</h3>
