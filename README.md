@@ -2,7 +2,7 @@
 
 <h1>ℍ𝔼𝕃𝕃𝕆 𝕀'𝕄 𝕆𝕊ℍ𝔸ℕ 𝕌𝔻𝔼𝔼𝕊ℍ𝔸</h1>
 
-<h4>... 𝓢𝓣𝓐𝓨 𝓐𝓒𝓣𝓘𝓥𝓔 𝓦𝓘𝓣𝓗 𝓜𝓔 ...</h4>
+<h3>... 𝓢𝓣𝓐𝓨 𝓐𝓒𝓣𝓘𝓥𝓔 𝓦𝓘𝓣𝓗 𝓜𝓔 ...</h3>
 
 <h5>Aspiring Software Engineer | Computer Science Student @ IJSE, Sri Lanka 🇱🇰</h5>
 
