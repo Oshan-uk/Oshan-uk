@@ -12,4 +12,5 @@
 <a href="https://wa.me/94759668377"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
 <a href="https://www.youtube.com/@codecraftwithoshan"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white"></a>
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0057FF,100:00FFF0&height=120&section=footer)
 </div>
