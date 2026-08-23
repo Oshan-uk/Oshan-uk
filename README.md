@@ -1,1 +1,1 @@
-![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=Oshan-uk) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
