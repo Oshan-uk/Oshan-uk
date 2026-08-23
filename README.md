@@ -1,9 +1,1 @@
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oshan-udeesha-a380b03a8/)
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oshanudeesha2004@gmail.com)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Oshan-uk.Oshan-uk)
-
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/oshan.udeesha/?_rdc=1&_rdr#)
-
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/94759668377)
+<table> <tr> <td> <h2>Hello I'm Oshan</h2> </td> <td align="right"> <a href="https://www.linkedin.com/in/oshan-udeesha-a380b03a8/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a> <a href="mailto:oshanudeesha2004@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"></a> <a href="https://web.facebook.com/oshan.udeesha/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"></a> <a href="https://wa.me/94759668377"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a> </td> </tr> </table> ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Oshan-uk.Oshan-uk)
