@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0057FF,100:00FFF0&height=75&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0057FF,100:00FFF0&height=80&section=header)
 
 <h1>ℍ𝔼𝕃𝕃𝕆 𝕀'𝕄 𝕆𝕊ℍ𝔸ℕ 𝕌𝔻𝔼𝔼𝕊ℍ𝔸</h1>
 
@@ -12,7 +12,7 @@
 <a href="https://wa.me/94759668377"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
 <a href="https://www.youtube.com/@codecraftwithoshan"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white"></a>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0057FF,100:00FFF0&height=75&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0057FF,100:00FFF0&height=80&section=footer)
 
 ![Snake animation](https://raw.githubusercontent.com/Oshan-uk/Oshan-uk/output/github-snake.svg)
 
