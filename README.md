@@ -33,10 +33,6 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Oshan-uk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4FF&icon_color=00FFF0&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oshan-uk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4FF&langs_count=8" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=Oshan-uk&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4FF&fire=00FFF0&currStreakLabel=00B4FF" />
 
@@ -63,7 +59,7 @@
 
 <br/><br/>
 
-<a href="https://www.youtube.com/@codecraftwithoshan"><img src="https://img.shields.io/badge/▶_SUBSCRIBE-CodeCraft_with_Oshan-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.youtube.com/@codecraftwithoshan"><img src="https://img.shields.io/badge/▶_SUBSCRIBE-Oshan Udeesha Official-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 <br/><br/>
 
