@@ -12,11 +12,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Oshan-uk&label=PROFILE+VIEWS&color=0057FF&style=flat-square" alt="views" />
-<img src="https://img.shields.io/github/followers/Oshan-uk?label=FOLLOWERS&style=flat-square&color=00B4FF&logo=github" alt="followers" />
-
-<br/><br/>
-
 <img src="./assets/about.svg" alt="About Oshan" width="80%" />
 
 </div>
