@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#030712"/>
+      <stop offset=".55" stop-color="#071633"/>
+      <stop offset="1" stop-color="#021a2b"/>
+    </linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0057FF"/>
+      <stop offset=".5" stop-color="#00B4FF"/>
+      <stop offset="1" stop-color="#00FFF0"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00FFF0" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#00FFF0" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#00FFF0" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#00B4FF" stop-opacity=".38"/>
+      <stop offset="1" stop-color="#00B4FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#00B4FF" stroke-opacity=".09"/>
+    </pattern>
+    <filter id="blur" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <clipPath id="r"><rect width="1200" height="340" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#r)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+    <ellipse cx="600" cy="170" rx="520" ry="170" fill="url(#glow)"/>
+
+    <!-- falling code columns -->
+    <g font-family="'Courier New', monospace" font-size="14" fill="#00FFF0">
+      <g opacity=".38"><text x="40"><tspan x="40" y="0">1</tspan><tspan x="40" y="16">0</tspan><tspan x="40" y="32">1</tspan><tspan x="40" y="48">1</tspan><tspan x="40" y="64">0</tspan><tspan x="40" y="80">A</tspan><tspan x="40" y="96">F</tspan><tspan x="40" y="112">0</tspan><tspan x="40" y="128">1</tspan></text>
+        <animateTransform attributeName="transform" type="translate" from="0 -150" to="0 360" dur="7s" begin="-2s" repeatCount="indefinite"/></g>
+      <g opacity=".25"><text x="110"><tspan x="110" y="0">0</tspan><tspan x="110" y="16">1</tspan><tspan x="110" y="32">0</tspan><tspan x="110" y="48">E</tspan><tspan x="110" y="64">1</tspan><tspan x="110" y="80">1</tspan><tspan x="110" y="96">0</tspan><tspan x="110" y="112">7</tspan><tspan x="110" y="128">0</tspan></text>
+        <animateTransform attributeName="transform" type="translate" from="0 -150" to="0 360" dur="9s" begin="-6s" repeatCount="indefinite"/></g>
+      <g opacity=".3"><text x="190"><tspan x="190" y="0">1</tspan><tspan x="190" y="16">1</tspan><tspan x="190" y="32">0</tspan><tspan x="190" y="48">0</tspan><tspan x="190" y="64">B</tspan><tspan x="190" y="80">1</tspan><tspan x="190" y="96">0</tspan><tspan x="190" y="112">1</tspan><tspan x="190" y="128">C</tspan></text>
+        <animateTransform attributeName="transform" type="translate" from="0 -150" to="0 360" dur="6s" begin="-1s" repeatCount="indefinite"/></g>
+      <g opacity=".22"><text x="270"><tspan x="270" y="0">0</tspan><tspan x="270" y="16">D</tspan><tspan x="270" y="32">1</tspan><tspan x="270" y="48">0</tspan><tspan x="270" y="64">0</tspan><tspan x="270" y="80">1</tspan><tspan x="270" y="96">9</tspan><tspan x="270" y="112">1</tspan><tspan x="270" y="128">0</tspan></text>
+        <animateTransform attributeName="transform" type="translate" from="0 -150" to="0 360" dur="10s" begin="-4s" repeatCount="indefinite"/></g>
+      <g opacity=".22"><text x="900"><tspan x="900" y="0">1</tspan><tspan x="900" y="16">0</tspan><tspan x="900" y="32">F</tspan><tspan x="900" y="48">1</tspan><tspan x="900" y="64">1</tspan><tspan x="900" y="80">0</tspan><tspan x="900" y="96">0</tspan><tspan x="900" y="112">A</tspan><tspan x="900" y="128">1</tspan></text>
+        <animateTransform attributeName="transform" type="translate" from="0 -150" to="0 360" dur="8s" begin="-3s" repeatCount="indefinite"/></g>
+      <g opacity=".3"><text x="980"><tspan x="980" y="0">0</tspan><tspan x="980" y="16">1</tspan><tspan x="980" y="32">1</tspan><tspan x="980" y="48">0</tspan><tspan x="980" y="64">3</tspan><tspan x="980" y="80">1</tspan><tspan x="980" y="96">0</tspan><tspan x="980" y="112">1</tspan><tspan x="980" y="128">E</tspan></text>
+        <animateTransform attributeName="transform" type="translate" from="0 -150" to="0 360" dur="6.5s" begin="-5s" repeatCount="indefinite"/></g>
+      <g opacity=".25"><text x="1060"><tspan x="1060" y="0">1</tspan><tspan x="1060" y="16">0</tspan><tspan x="1060" y="32">0</tspan><tspan x="1060" y="48">C</tspan><tspan x="1060" y="64">1</tspan><tspan x="1060" y="80">0</tspan><tspan x="1060" y="96">1</tspan><tspan x="1060" y="112">1</tspan><tspan x="1060" y="128">0</tspan></text>
+        <animateTransform attributeName="transform" type="translate" from="0 -150" to="0 360" dur="9.5s" begin="-7s" repeatCount="indefinite"/></g>
+      <g opacity=".38"><text x="1145"><tspan x="1145" y="0">0</tspan><tspan x="1145" y="16">1</tspan><tspan x="1145" y="32">1</tspan><tspan x="1145" y="48">0</tspan><tspan x="1145" y="64">1</tspan><tspan x="1145" y="80">7</tspan><tspan x="1145" y="96">0</tspan><tspan x="1145" y="112">B</tspan><tspan x="1145" y="128">1</tspan></text>
+        <animateTransform attributeName="transform" type="translate" from="0 -150" to="0 360" dur="7.5s" begin="-2.5s" repeatCount="indefinite"/></g>
+    </g>
+
+    <!-- circuit traces: left -->
+    <g fill="none" stroke="#00B4FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".75">
+      <path d="M0 262 H120 L160 222 H340 L370 192" stroke-dasharray="14 10">
+        <animate attributeName="stroke-dashoffset" from="0" to="-240" dur="6s" repeatCount="indefinite"/></path>
+      <path d="M0 296 H210 L246 260 H430" stroke-dasharray="10 12">
+        <animate attributeName="stroke-dashoffset" from="0" to="-220" dur="8s" repeatCount="indefinite"/></path>
+      <path d="M0 60 H110 L150 100 H300 L336 136" stroke-dasharray="12 10">
+        <animate attributeName="stroke-dashoffset" from="0" to="-220" dur="7s" repeatCount="indefinite"/></path>
+      <!-- right -->
+      <path d="M1200 262 H1080 L1040 222 H860 L830 192" stroke-dasharray="14 10">
+        <animate attributeName="stroke-dashoffset" from="0" to="-240" dur="6s" repeatCount="indefinite"/></path>
+      <path d="M1200 296 H990 L954 260 H770" stroke-dasharray="10 12">
+        <animate attributeName="stroke-dashoffset" from="0" to="-220" dur="8s" repeatCount="indefinite"/></path>
+      <path d="M1200 60 H1090 L1050 100 H900 L864 136" stroke-dasharray="12 10">
+        <animate attributeName="stroke-dashoffset" from="0" to="-220" dur="7s" repeatCount="indefinite"/></path>
+    </g>
+
+    <!-- nodes -->
+    <g fill="#00FFF0">
+      <circle cx="370" cy="192" r="4"><animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/></circle>
+      <circle cx="430" cy="260" r="4"><animate attributeName="r" values="3;6;3" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="336" cy="136" r="4"><animate attributeName="r" values="3;6;3" dur="2.2s" repeatCount="indefinite"/></circle>
+      <circle cx="830" cy="192" r="4"><animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/></circle>
+      <circle cx="770" cy="260" r="4"><animate attributeName="r" values="3;6;3" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="864" cy="136" r="4"><animate attributeName="r" values="3;6;3" dur="2.2s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- moving scanline -->
+    <rect width="1200" height="60" fill="url(#scan)">
+      <animate attributeName="y" from="-60" to="340" dur="5s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- name -->
+    <g font-family="'Segoe UI', Verdana, Arial, sans-serif" font-weight="800" font-size="78" letter-spacing="8" text-anchor="middle">
+      <text x="600" y="162" fill="#00B4FF" filter="url(#blur)" opacity=".8">OSHAN UDEESHA</text>
+      <text x="600" y="162" fill="url(#ac)">OSHAN UDEESHA</text>
+    </g>
+
+    <!-- divider -->
+    <rect x="420" y="184" width="360" height="3" rx="1.5" fill="url(#ac)">
+      <animate attributeName="width" values="40;360;40" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="580;420;580" dur="4s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- subtitle -->
+    <text x="600" y="228" text-anchor="middle" font-family="'Courier New', monospace" font-size="21" fill="#9be7ff">
+      <tspan fill="#00FFF0">&gt;</tspan> software_engineer --student @IJSE --ai-ml --creator<tspan fill="#00FFF0">_<animate attributeName="fill-opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan>
+    </text>
+    <text x="600" y="262" text-anchor="middle" font-family="'Courier New', monospace" font-size="15" fill="#4f8fb8" letter-spacing="3">SRI LANKA  //  CODECRAFT WITH OSHAN</text>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="338" rx="17" fill="none" stroke="url(#ac)" stroke-width="2" opacity=".7"/>
+</svg>
