@@ -16,50 +16,7 @@
 
 </div>
 
-<br/>
 
-<h2 align="center">⚡ TECH ARSENAL</h2>
-
-<div align="center">
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,nodejs,html,css,tailwind&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,linux,vscode,idea,postman,figma&theme=dark" />
-</div>
-
-</div>
-
-<br/>
-
-<h2 align="center">📡 LIVE GITHUB TELEMETRY</h2>
-
-<div align="center">
-
-
-<img src="https://streak-stats.demolab.com?user=Oshan-uk&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4FF&fire=00FFF0&currStreakLabel=00B4FF" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Oshan-uk&bg_color=0D1117&color=00B4FF&line=00FFF0&point=FFFFFF&area=true&hide_border=true" width="95%" />
-
-<br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Oshan-uk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" /></a>
-
-</div>
-
-<br/>
-
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oshan-uk/Oshan-uk/output/github-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/Oshan-uk/Oshan-uk/output/github-snake.svg" />
-</picture>
-
-<br/><br/>
 
 <a href="https://www.youtube.com/@codecraftwithoshan"><img src="https://img.shields.io/badge/▶_SUBSCRIBE-Oshan Udeesha Official-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
