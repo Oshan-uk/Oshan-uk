@@ -22,8 +22,10 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,nodejs,html,css,tailwind&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,linux,vscode,idea,postman,figma&theme=dark" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,nodejs,html,css,tailwind&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,linux,vscode,idea,postman,figma&theme=dark" />
+</div>
 
 </div>
 
