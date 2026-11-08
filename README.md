@@ -6,23 +6,27 @@
 <br/><br/>
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/oshan-udeesha-a380b03a8/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:oshanudeesha2004@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://web.facebook.com/oshan.udeesha/">
-  <img src="https://img.shields.io/badge/Facebook-Follow-0866FF?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://wa.me/94759668377">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/@codecraftwithoshan">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/oshan-udeesha-a380b03a8/">
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="48" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:oshanudeesha2004@gmail.com">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="48" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://web.facebook.com/oshan.udeesha/">
+    <img src="https://img.icons8.com/color/96/facebook-new.png" width="48" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/94759668377">
+    <img src="https://img.icons8.com/color/96/whatsapp--v1.png" width="48" alt="WhatsApp" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@codecraftwithoshan">
+    <img src="https://img.icons8.com/color/96/youtube-play.png" width="48" alt="YouTube" />
+  </a>
+</p>
 </div>
 
 <br/><br/>
