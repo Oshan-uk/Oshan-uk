@@ -22,6 +22,10 @@
     <img src="https://img.icons8.com/color/96/facebook-new.png" width="48" alt="Facebook" />
   </a>
   &nbsp;&nbsp;
+<a href="https://www.instagram.com/oshan_udeesha/" target="_blank">
+  <img src="https://img.icons8.com/color/96/instagram-new.png" width="48" alt="Instagram" />
+</a>
+  &nbsp;&nbsp;
   <a href="https://wa.me/94759668377">
     <img src="https://img.icons8.com/color/96/whatsapp--v1.png" width="48" alt="WhatsApp" />
   </a>
