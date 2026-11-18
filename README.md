@@ -10,6 +10,10 @@
     <img src="https://img.icons8.com/color/96/linkedin.png" width="48" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://x.com/@OshanUdeesha" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/100/000000/twitterx.png" width="48" alt="X" />
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:oshanudeesha2004@gmail.com">
     <img src="https://img.icons8.com/color/96/gmail-new.png" width="48" alt="Gmail" />
   </a>
@@ -22,7 +26,7 @@
     <img src="https://img.icons8.com/color/96/whatsapp--v1.png" width="48" alt="WhatsApp" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@codecraftwithoshan">
+  <a href="https://www.youtube.com/@oshanudeeshaofficial">
     <img src="https://img.icons8.com/color/96/youtube-play.png" width="48" alt="YouTube" />
   </a>
 </p>
