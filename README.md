@@ -30,6 +30,10 @@
     <img src="https://img.icons8.com/color/96/whatsapp--v1.png" width="48" alt="WhatsApp" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://www.freelancer.com/u/OshanUdeesha" target="_blank">
+    <img src="https://cdn.simpleicons.org/freelancer/29B2FE" width="48" alt="Freelancer" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.youtube.com/@oshanudeeshaofficial">
     <img src="https://img.icons8.com/color/96/youtube-play.png" width="48" alt="YouTube" />
   </a>
